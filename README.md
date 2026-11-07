@@ -23,10 +23,10 @@ I specialize in building data pipelines, developing ETL processes, database solu
 - **[Schools Nearby - Mongodb](https://github.com/dlinoba/schools_nearby)** – Geospatial data processing and analysis using Python and Mongodb.
 - **[Pentaho + Python](https://github.com/dlinoba/PENTAHO_PYTHON)** – Automated email and PDF data extraction, processing, and database integration.
 - **[ClickUp API Integration](https://github.com/dlinoba/clickup)** – API data extraction and database integration for further analysis.
-- **[Metabase | Business Intelligence with MySQL and Docker](https://github.com/dlinoba/Metabase)** - Crowdtangle Email ETL | Pentaho Data Integration
+- **[Metabase | Business Intelligence with MySQL and Docker](https://github.com/dlinoba/Metabase)** - Metabase | Crowdtangle Email ETL | Pentaho Data Integration
 
 ## 💻 Other Projects
-- **[ETL_PDI_crowdtangle](https://github.com/dlinoba/Metabase)** - Metabase | Crowdtangle Email ETL | Pentaho Data Integration
+- **[ETL_PDI_crowdtangle](https://github.com/dlinoba/ETL_PDI_crowdtangle))** - Crowdtangle Email ETL | Pentaho Data Integration
 - **[Jogoteca - Flask](https://github.com/dlinoba/jogoteca)** - Jogoteca – Game Catalog Management System
 
 ## 🎓 Education
