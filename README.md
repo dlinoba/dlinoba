@@ -25,7 +25,7 @@ I specialize in building data pipelines, developing ETL processes, database solu
 - **[ClickUp API Integration](https://github.com/dlinoba/clickup)** – API data extraction and database integration for further analysis.
 - **[Metabase | Business Intelligence with MySQL and Docker](https://github.com/dlinoba/Metabase)** - Crowdtangle Email ETL | Pentaho Data Integration
 
-## 🚀 Other Projects
+## 💻 Other Projects
 - **[ETL_PDI_crowdtangle](https://github.com/dlinoba/Metabase)** - Metabase | Crowdtangle Email ETL | Pentaho Data Integration
 - **[Jogoteca - Flask](https://github.com/dlinoba/jogoteca)** - Jogoteca – Game Catalog Management System
 
