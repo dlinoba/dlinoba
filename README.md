@@ -20,6 +20,7 @@ I specialize in building data pipelines, developing ETL processes, database solu
 
 - **[Airflow Example](https://github.com/dlinoba/Airflow)** – ETL pipeline using Apache Airflow, MySQL, Docker, and SCD Type 2.
 - **[Schools Nearby – PostgreSQL](https://github.com/dlinoba/schools_nearby_postgresql)** – Geospatial data processing and analysis using Python and PostgreSQL.
+- **[Schools Nearby - Mongodb](https://github.com/dlinoba/schools_nearby)** – Geospatial data processing and analysis using Python and Mongodb.
 - **[Pentaho + Python](https://github.com/dlinoba/PENTAHO_PYTHON)** – Automated email and PDF data extraction, processing, and database integration.
 - **[ClickUp API Integration](https://github.com/dlinoba/clickup)** – API data extraction and database integration for further analysis.
 
