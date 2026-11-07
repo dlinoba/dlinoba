@@ -28,6 +28,7 @@ I specialize in building data pipelines, developing ETL processes, database solu
 ## 💻 Other Projects
 - **[ETL_PDI_crowdtangle](https://github.com/dlinoba/ETL_PDI_crowdtangle)** - Crowdtangle Email ETL | Pentaho Data Integration
 - **[Jogoteca - Flask](https://github.com/dlinoba/jogoteca)** - Jogoteca – Game Catalog Management System
+- **[Terraform](https://github.com/dlinoba/Terraform)** - AWS Infrastructure as Code with Terraform
 
 ## 🎓 Education
 
