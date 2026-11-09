@@ -26,6 +26,7 @@ I specialize in building data pipelines, developing ETL processes, database solu
 - **[Metabase | Business Intelligence with MySQL and Docker](https://github.com/dlinoba/Metabase)** - Metabase | Crowdtangle Email ETL | Pentaho Data Integration
 
 ## 💻 Other Projects
+- **[API Smartsheet](https://github.com/dlinoba/API-Smartsheet)** - API Smartsheet
 - **[ETL_PDI_crowdtangle](https://github.com/dlinoba/ETL_PDI_crowdtangle)** - Crowdtangle Email ETL | Pentaho Data Integration
 - **[Jogoteca - Flask](https://github.com/dlinoba/jogoteca)** - Jogoteca – Game Catalog Management System
 - **[Terraform](https://github.com/dlinoba/Terraform)** - AWS Infrastructure as Code with Terraform
